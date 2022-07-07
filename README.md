@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Alfonso Katzenstein
-=======
 
 Sonia Olivera
 
@@ -10,9 +8,10 @@ Mathias Angelini
 
 Karen Garcia
 
->>>>>>> 25f16804bc3fac8e2f690505b60e5a42932eefee
-# examen_integrador-
+# examen_integrador
 Introducción a la Informática - Equipo2
+Los mas mejores
+
 
 
 
